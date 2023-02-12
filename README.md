@@ -9,7 +9,8 @@ Advance Software Engineering
 This project is a small console based library management system application.
 
 # Project output
-https://github.com/mumairkhaan/LibraryManagementSystem/tree/main/output
+Here is the ![output](https://github.com/mumairkhaan/LibraryManagementSystem/tree/main/output) of my project
+
 
 # DDD
 # Domain Background
