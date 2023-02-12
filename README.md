@@ -7,6 +7,10 @@ Advance Software Engineering
 
 # LibraryManagamentSystem
 This project is a small console based library management system application.
+
+# Project output
+https://github.com/mumairkhaan/LibraryManagementSystem/tree/main/output
+
 # DDD
 # Domain Background
 At its numerous library branches, a public library allows its users to place books on hold. Only one customer may place a hold on any particular set of available books at any given moment. There may be retrieval or usage costs for books that are either limited or circulated. Only a researcher patron may check out a restricted book. Regular users are only permitted five holds at a time, but researchers are permitted an infinite amount of holds. Until the customer checks out the book, an open-ended book hold is in effect. At that point, it is finished. A closed-ended book hold will expire if it is not finished within a predetermined period of time after it was requested. At the start of each day, this check is performed by looking at the daily document with expiring holdings. An open-ended hold time can only be requested by researchers. If a user attempts to place a hold at the same library branch with more than two late checkouts, their request will be rejected. A book may be borrowed for as long as 60 days. Examining the daily sheet with the overdue checkouts allows one to check for overdue checkouts. Look at the patron profile to interact with your existing holds, checkouts, etc. The information in the patron profile is specific to one person and is not always updated daily, despite the fact that it looks like a daily sheet.
