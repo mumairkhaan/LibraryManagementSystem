@@ -142,8 +142,19 @@ Alt+1 focus on tools of project
 
 # 10. DSL
 A programming language with such a higher level of abstraction that is tailored for a particular class of issues is known as a domain specific language. The ideas and regulations in the field or domain are used by a DSL. The complexity of a domain-specific language is typically lower than that of a general-purpose language like Java, C, or Ruby. DSLs are typically developed in close collaboration with the subject matter experts for the field for which they are being designed. DSLs are frequently designed to be utilized by persons who aren't software developers but are experts in the field the DSL handles. The use of DSLs has a lot of advantages. The most immediately apparent advantage of adopting DSLs is that, once you have a language and a transformation engine, your work in the specific area of software development covered by the DSL becomes considerably more efficient because you don't have to perform the tedious tasks by hand. You can employ excellent, domain-specific abstractions without incurring any runtime complexity if you create source code from your DSL program (as opposed to reading it), as the generator, like a compiler, can remove the abstractions and generate efficient code. The demo DSL code is not related to my project but I have added the demo at the following links: [DSL](https://github.com/mumairkhaan/LibraryManagementSystem/tree/main/LibraryManagamentSystem-main/DSL)
+
 # 11. FUNCTIONAL REQUIRMENTS
 The organization of code is based on functions, which are present in all higher level programming languages. Functional programming, in general, refers to the optimum use of functions for producing orderly and maintainable software. More specifically, functional programming refers to a group of coding methods that are frequently referred to as a programming paradigm.  Although it has been a trend in software development since the beginning, functional programming has gained new significance in the contemporary period. I have utilized functional programming in my code which can be seen in different methods, and different points in my code which is uploaded on git.
 The link to source code: [Source Code](https://github.com/mumairkhaan/LibraryManagementSystem/tree/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java)
 
+The first principle of funcitonal programming: 
+<br> 
+Pure functions. I have used fucntions for creating different behaviour of my classes. [pure funcitons for adding, finding or removing behaviour of books class](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/books.java?plain=1#L21-L49)
+
+Principle 2: Immutable things. I have used java INteger, and strign immutable classes for asignign attribute thier object types in this class. [Student class](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Student.java?plain=1#L11-l12)
+ Principle 3: using nested functions calls [in library class we called different fucntions of books and students classes](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Library.java?plain=1#L51)
+  principle 6: A function can refer to
+variables that belong
+to the context in which
+it was created. [Library class utilizing this principle](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Library.java?plain=1#L26-L28)
 
