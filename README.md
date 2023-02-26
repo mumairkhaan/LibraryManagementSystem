@@ -151,10 +151,10 @@ The first principle of funcitonal programming:
 <br> 
 Pure functions. I have used fucntions for creating different behaviour of my classes. [pure funcitons for adding, finding or removing behaviour of books class](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/books.java?plain=1#L21-L49)
 
-Principle 2: Immutable things. I have used java INteger, and strign immutable classes for asignign attribute thier object types in this class. [Student class](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Student.java?plain=1#L11-l12)
- Principle 3: using nested functions calls [in library class we called different fucntions of books and students classes](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Library.java?plain=1#L51)
-  principle 6: A function can refer to
-variables that belong
-to the context in which
-it was created. [Library class utilizing this principle](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Library.java?plain=1#L26-L28)
+Principle 2: Immutable things. I have used java INteger, and strign immutable classes for asignign attribute thier object types in this class. [Student class](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Student.java?plain=1#L11-l12)
+  
+Principle 3: using nested functions calls [in library class we called different fucntions of books and students classes](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Library.java?plain=1#L51)
+  
+Principle 6: A function can refer to variables that belong to the context in which it was created. 
+[Library class utilizing this principle](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Library.java?plain=1#L26-L28)
 
