@@ -45,10 +45,18 @@ colleciton of book from library
 an overdue occurs when a patron doesnt return the book he held after 60 days of colleciton
 ## daily sheet
 a sheet that contains data of expired hold
+
+# Domain Architecture
+The given diagram shows my domain architectrue where the presentaiton layer commmunicates with external domains.
+![Domain Architectrue](LibraryManagamentSystem-main/images/DDD/domainArchitecture.png)
 # Domain Mapping
 The following domain mapping has been developed after event stroming session. The main core domain is Library resource management and the subdomains include resorces, users profiles and application fee domain.
 
 ![Domain Mapping](LibraryManagamentSystem-main/images/DDD/domain.png)
+# Domain Components
+The following are the main components of the library management system.
+![Component Diagram](LibraryManagamentSystem-main/images/DDD/comp.png)
+
 # UML
 UML is unified modelling language that is used for visually representing the system being developed. 
 ## Class Diagram
