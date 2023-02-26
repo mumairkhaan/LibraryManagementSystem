@@ -116,7 +116,6 @@ I have utilized the clean code development approach for writing the code. I woul
 8.	My code is simple (KISS) followed
 Link to my CCD cheat sheat: [CCD](https://github.com/mumairkhaan/LibraryManagementSystem/tree/main/LibraryManagamentSystem-main/CCD)
   
-  
 # 6. BUILD
 I have used maven for my project build. It is an open source automation tool that can be used for complete build lifecycle. The Apache Group created the well-known open-source build tool Maven to build, publish, and deploy several projects simultaneously for better project management. Developers can create and document the lifecycle framework using the provided tool. Maven does numerous helpful tasks, like Maven makes it simple to develop a project. With the aid of maven, adding jars and other project dependencies is simple. Maven offers project details (log document, dependency list, unit test reports etc.) When upgrading the central repository of JARs and other dependencies, Maven is very beneficial to a project. With the help of Maven we can build any number of projects into output types like the JAR, WAR etc without doing any scripting. We can easily integrate our project with a source control system using maven (such as Subversion or Git).
 # 7. UNIT TESTS
