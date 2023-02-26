@@ -58,6 +58,8 @@ The following domain mapping has been developed after event stroming session. Th
 ![Domain Mapping](LibraryManagamentSystem-main/images/DDD/domain.png)
 # Domain Components
 The following are the main components of the library management system.
+<br />
+<br />
 ![Component Diagram](LibraryManagamentSystem-main/images/DDD/comp.png)
 
 # UML
