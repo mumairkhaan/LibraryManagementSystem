@@ -106,12 +106,15 @@ I have utilized the clean code development approach for writing the code. I woul
 2.	Tests are also executed with just one step. 
 3.	Naming conventions for methods, classes and variables are followed.[Click to view](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Student.java?plain=1#L11-#L12)
   
-4.	Good commenting can be found in my code.[Click to view](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Student.java?plain=1#L17-#L18)
-5.	Each Method does only one thing in my code.[Click to view](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/students.java?plain=1#L119)
+4.	Good commenting can be found in my code.[Click to view](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Student.java?plain=1#L17-#L18)
+  
+5.	Each Method does only one thing in my code.[Click to view](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Student.java?plain=1#L119)
+  
 6.	My code is consistent.
-7.	Names are descriptive in my code. [Click to view](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Book.java?plain=1#L10-L14)
+7.	Names are descriptive in my code. [Click to view](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Book.java?plain=1#L10-L14)
+  
 8.	My code is simple (KISS) followed
-Link to my CCD cheat sheat: [CCD](https://github.com/WinterASE2022-23/LibraryManagementSystem/tree/main/LibraryManagamentSystem-main/CCD)
+Link to my CCD cheat sheat: [CCD](https://github.com/mumairkhaan/LibraryManagementSystem/tree/main/LibraryManagamentSystem-main/CCD)
   
   
 # 6. BUILD
