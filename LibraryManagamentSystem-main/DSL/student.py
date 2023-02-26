@@ -1,7 +1,7 @@
 class Student():
 	ID = "S001"
-	name = "John Doe"
-	Email = "Johndoe97@gmail.com"
+	name = "Muhammad Umair"
+	Email = "mumairkhaan@gmail.com"
 
 	def __str__(self):
 		return "Car=>" + "[" + self.ID + ","+ self.name + "," + self.Email + "]"
@@ -19,7 +19,7 @@ class Student():
 		return self
 
 student = Student()
-student.setid("S002").setName("Harry Potter").setEmail("potter.harry@gmail.com") 
+student.setid("S002").setName("abc").setEmail("abc@gmail.com")
 
 print("Print Students...")
 print(student)
