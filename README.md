@@ -103,14 +103,16 @@ Software metrics are measurements of quantifiable or countable software attribut
 # 5.	CLEAN CODE DEVELOPMENT
 I have utilized the clean code development approach for writing the code. I would like to highlight the points that I have used for clean code development.
 1.	Build requires only one step. With just one click the project is build successfully.
-2.	 Tests are also executed with just one step. 
-3.	Naming conventions for methods, classes and variables are followed.
-4.	Good commenting can be found in my code.
-5.	Each Method does only one thing in my code.
+2.	Tests are also executed with just one step. 
+3.	Naming conventions for methods, classes and variables are followed.[Click to view](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Student.java?plain=1#L11-#L12)
+4.	Good commenting can be found in my code.[Click to view](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Student.java?plain=1#L17-#L18)
+5.	Each Method does only one thing in my code.[Click to view](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/students.java?plain=1#L119)
 6.	My code is consistent.
-7.	Names are descriptive in my code.
+7.	Names are descriptive in my code. [Click to view](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Book.java?plain=1#L10-L14)
 8.	My code is simple (KISS) followed
-Link to my CCD cheat sheat: [CCD](https://github.com/mumairkhaan/LibraryManagementSystem/tree/main/LibraryManagamentSystem-main/CCD)
+Link to my CCD cheat sheat: [CCD](https://github.com/WinterASE2022-23/LibraryManagementSystem/tree/main/LibraryManagamentSystem-main/CCD)
+  
+  
 # 6. BUILD
 I have used maven for my project build. It is an open source automation tool that can be used for complete build lifecycle. The Apache Group created the well-known open-source build tool Maven to build, publish, and deploy several projects simultaneously for better project management. Developers can create and document the lifecycle framework using the provided tool. Maven does numerous helpful tasks, like Maven makes it simple to develop a project. With the aid of maven, adding jars and other project dependencies is simple. Maven offers project details (log document, dependency list, unit test reports etc.) When upgrading the central repository of JARs and other dependencies, Maven is very beneficial to a project. With the help of Maven we can build any number of projects into output types like the JAR, WAR etc without doing any scripting. We can easily integrate our project with a source control system using maven (such as Subversion or Git).
 # 7. UNIT TESTS
