@@ -147,9 +147,8 @@ A programming language with such a higher level of abstraction that is tailored 
 The organization of code is based on functions, which are present in all higher level programming languages. Functional programming, in general, refers to the optimum use of functions for producing orderly and maintainable software. More specifically, functional programming refers to a group of coding methods that are frequently referred to as a programming paradigm.  Although it has been a trend in software development since the beginning, functional programming has gained new significance in the contemporary period. I have utilized functional programming in my code which can be seen in different methods, and different points in my code which is uploaded on git.
 The link to source code: [Source Code](https://github.com/mumairkhaan/LibraryManagementSystem/tree/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java)
 
-The first principle of funcitonal programming: 
 <br> 
-Pure functions. I have used fucntions for creating different behaviour of my classes. [pure funcitons for adding, finding or removing behaviour of books class](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/books.java?plain=1#L21-L49)
+Principle 1: Pure functions. I have used fucntions for creating different behaviour of my classes. [pure funcitons for adding, finding or removing behaviour of books class](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/books.java?plain=1#L21-L49)
 
 Principle 2: Immutable things. I have used java INteger, and strign immutable classes for asignign attribute thier object types in this class. [Student class](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Student.java?plain=1#L11-l12)
   
