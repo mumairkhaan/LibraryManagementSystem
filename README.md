@@ -104,7 +104,8 @@ Software metrics are measurements of quantifiable or countable software attribut
 I have utilized the clean code development approach for writing the code. I would like to highlight the points that I have used for clean code development.
 1.	Build requires only one step. With just one click the project is build successfully.
 2.	Tests are also executed with just one step. 
-3.	Naming conventions for methods, classes and variables are followed.[Click to view](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Student.java?plain=1#L11-#L12)
+3.	Naming conventions for methods, classes and variables are followed.[Click to view](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Student.java?plain=1#L11-#L12)
+  
 4.	Good commenting can be found in my code.[Click to view](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Student.java?plain=1#L17-#L18)
 5.	Each Method does only one thing in my code.[Click to view](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/students.java?plain=1#L119)
 6.	My code is consistent.
