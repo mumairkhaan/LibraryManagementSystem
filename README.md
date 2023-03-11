@@ -60,12 +60,14 @@ The following domain mapping has been developed after event stroming session. Th
 The following are the main components of the library management system.
 <br />
 <br />
+<br />
 ![Component Diagram](LibraryManagamentSystem-main/images/DDD/comp.png)
 
 # UML
 UML is unified modelling language that is used for visually representing the system being developed. 
 ## Class Diagram
 A description of a group of objects all with similar roles in the system, which consists of: structural featurs as attributes and behavioural features as operations in it. Here is the class diagram of the library management system. 
+<br />
 <br />
 ![Class Diagram](LibraryManagamentSystem-main/images/UML/libClass.png)
 
@@ -76,6 +78,7 @@ In the Unified Modeling Language (UML), a use case diagram can summarize the det
 
 ## Activity Diagram
 Activity diagram is another important behavioral diagram in UML diagram to describe dynamic aspects of the system. Activity diagram is essentially an advanced version of flow chart that modeling the flow from one activity to another activity.Here is the activity diagram of the library management system. 
+<br />
 <br />
 ![Activity Diagram](LibraryManagamentSystem-main/images/UML/Activity.png)
 
