@@ -148,7 +148,8 @@ Functional programming, in general, refers to the optimum use of functions for p
 <br>
 I have utilized functional programming in my code which can be seen in different methods, and different points in my code which is uploaded on git. This code is Not from my original (Library Management System) project instead it is out of the project which utilizes functional programming.
 
-1. The use of final data structure is done to introduce immutability in code which can be seen [Here](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/FuncitonalProgramming/FuncitonalProgramming/src/main/java/Board.java#L14-L16)
+1. The use of [final data structure](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/Board.java#L14-L16) is done to introduce immutability in code.
+  
 2. Side effect free fucntions are utilized [here](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/FuncitonalProgramming/FuncitonalProgramming/src/main/java/Board.java#L22-L30)
 3. The use of higher order funcitos is done in this project like map, filter, reduce form stream API, which can be found [here](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/FuncitonalProgramming/FuncitonalProgramming/src/main/java/Board.java#L32-L38)
 4. Functions as parameters and values is used here [here](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/FuncitonalProgramming/FuncitonalProgramming/src/main/java/Board.java#L45-L48)
