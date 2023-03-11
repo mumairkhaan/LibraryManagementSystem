@@ -144,7 +144,9 @@ A programming language with such a higher level of abstraction that is tailored 
 
 
 # 11. FUNCTIONAL REQUIRMENTS
-The organization of code is based on functions, which are present in all higher level programming languages. Functional programming, in general, refers to the optimum use of functions for producing orderly and maintainable software. More specifically, functional programming refers to a group of coding methods that are frequently referred to as a programming paradigm.  Although it has been a trend in software development since the beginning, functional programming has gained new significance in the contemporary period. I have utilized functional programming in my code which can be seen in different methods, and different points in my code which is uploaded on git. This code is not form my original project instead it is out of the project which utilizes functional programming.
+Functional programming, in general, refers to the optimum use of functions for producing orderly and maintainable software. More specifically, functional programming refers to a group of coding methods that are frequently referred to as a programming paradigm.  Although it has been a trend in software development since the beginning, functional programming has gained new significance in the contemporary period. 
+<br>
+I have utilized functional programming in my code which can be seen in different methods, and different points in my code which is uploaded on git. This code is Not from my original (Library Management System) project instead it is out of the project which utilizes functional programming.
 
 1. The use of final data structure is done to introduce immutability in code which can be seen [Here](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/FuncitonalProgramming/FuncitonalProgramming/src/main/java/Board.java#L14-L16)
 2. Side effect free fucntions are utilized [here](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/FuncitonalProgramming/FuncitonalProgramming/src/main/java/Board.java#L22-L30)
