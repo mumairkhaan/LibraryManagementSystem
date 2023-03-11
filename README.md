@@ -175,7 +175,7 @@ Alt+1 focus on tools of project
 A programming language with such a higher level of abstraction that is tailored for a particular class of issues is known as a domain specific language. The ideas and regulations in the field or domain are used by a DSL. The complexity of a domain-specific language is typically lower than that of a general-purpose language like Java, C, or Ruby. DSLs are typically developed in close collaboration with the subject matter experts for the field for which they are being designed. 
   <br>
   <br>
-The demo DSL code is not related to my project but I have added the demo at the following links: [DSL](https://github.com/mumairkhaan/LibraryManagementSystem/tree/main/LibraryManagamentSystem-main/DSL)
+The demo DSL code is not related to my project but I have added the demo at the following links: [DSL](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/BoardDsl.java)
 
 
 # 11. FUNCTIONAL REQUIRMENTS
