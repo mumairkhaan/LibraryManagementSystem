@@ -150,7 +150,7 @@ I have utilized functional programming in my code which can be seen in different
 
 1. The use of [final data structure](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/Board.java#L13-L21) is done to introduce immutability in code.
   
-2. [Side effect free fucntions](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/Board.java#L29-L43) are being utilized.
+2. [Side effect free fucntions](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/Board.java#L28-L43) are being utilized.
   
 3. The use of [higher order functions](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/Board.java#L37-L43) is done in this project like map, filter, reduce form stream API etc.
   
