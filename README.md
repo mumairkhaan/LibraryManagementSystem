@@ -172,7 +172,10 @@ Alt+1 focus on tools of project
 <br>
 
 # 10. DSL
-A programming language with such a higher level of abstraction that is tailored for a particular class of issues is known as a domain specific language. The ideas and regulations in the field or domain are used by a DSL. The complexity of a domain-specific language is typically lower than that of a general-purpose language like Java, C, or Ruby. DSLs are typically developed in close collaboration with the subject matter experts for the field for which they are being designed. DSLs are frequently designed to be utilized by persons who aren't software developers but are experts in the field the DSL handles. The use of DSLs has a lot of advantages. The most immediately apparent advantage of adopting DSLs is that, once you have a language and a transformation engine, your work in the specific area of software development covered by the DSL becomes considerably more efficient because you don't have to perform the tedious tasks by hand. You can employ excellent, domain-specific abstractions without incurring any runtime complexity if you create source code from your DSL program (as opposed to reading it), as the generator, like a compiler, can remove the abstractions and generate efficient code. The demo DSL code is not related to my project but I have added the demo at the following links: [DSL](https://github.com/mumairkhaan/LibraryManagementSystem/tree/main/LibraryManagamentSystem-main/DSL)
+A programming language with such a higher level of abstraction that is tailored for a particular class of issues is known as a domain specific language. The ideas and regulations in the field or domain are used by a DSL. The complexity of a domain-specific language is typically lower than that of a general-purpose language like Java, C, or Ruby. DSLs are typically developed in close collaboration with the subject matter experts for the field for which they are being designed. 
+  <br>
+  <br>
+The demo DSL code is not related to my project but I have added the demo at the following links: [DSL](https://github.com/mumairkhaan/LibraryManagementSystem/tree/main/LibraryManagamentSystem-main/DSL)
 
 
 # 11. FUNCTIONAL REQUIRMENTS
