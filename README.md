@@ -156,7 +156,7 @@ I have utilized functional programming in my code which can be seen in different
   
 4. [Functions as parameters and values](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/Board.java#L74-L81) are being used in the code.
   
-5. The use of [closures / anonymous functions](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/BoardMathHelpers.java#L20-L30) is depicted in the code. 
+5. The use of [closures / anonymous functions](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/BoardMathHelpers.java#L20-L30) are depicted in the code. 
 
   <br>
   <br>
