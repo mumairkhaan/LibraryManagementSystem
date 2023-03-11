@@ -11,15 +11,21 @@ import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 public class Board {
-    private final PVector<Optional<Player>> board;    // In these lines , the board, rowSize, and winningRowIndices variables 
-    private final int rowSize;                       // are all declared as final, which means that their values cannot be changed once they are set.
+    private final PVector<Optional<Player>> board;    
+    private final int rowSize;                       
     private final List<List<Integer>> winningRowIndices;
 
+    // EXPLANATION:
+    
+    // In these lines , the board, rowSize, and winningRowIndices variables 
+    // // are all declared as final, which means that their values cannot be changed once they are set.
+    
     
     public Board() {
         this(BoardMathHelpers.defaultBoard());
     }
 
+    
     public Board(List<Optional<Player>> board) {
         if (!BoardMathHelpers.isPerfectSquare(board.size())) {
             throw new IllegalBoardException("The size of the board must be a perfect square (e.g. 9, 16, 25)");
@@ -29,11 +35,16 @@ public class Board {
         this.board = TreePVector.from(board);
         this.winningRowIndices = BoardMathHelpers.calculateWinningRowIndices(board.size(), rowSize);
     }
+    // EXPLANATION:
+    
     // This function is side effect free function because
     // The function takes a single argument, board, and uses it to initialize the state of the object. 
     // The function doesn't modify any external state, such as global variables or objects, 
     // and it doesn't depend on any external state that can change over time. It also doesn't have any observable side effects.
 
+    
+    
+    
     public Optional<Player> findWinner() {
         return winningRowIndices
                 .stream()
@@ -42,7 +53,20 @@ public class Board {
                 .findFirst()
                 .orElseGet(Optional::empty);
     }
-
+  
+    // EXPLANATION:
+    
+    // The findWinner method uses the stream() method to create a stream of the winningRowIndices list,
+    // and then applies the map() method to each element of the stream. The map() method takes a function as an argument,
+    // which in this case is this::findWinningPlayerInRow. This function is a reference to the findWinningPlayerInRow 
+    // method of the current object.
+    // Therefore, map(this::findWinningPlayerInRow) is an example of using a higher-order function,
+    // as it takes a function (findWinningPlayerInRow) as an argument and applies it to each element of the stream.
+    
+    // The filter() method above is also a higher-order function, as it takes a predicate function (Optional::isPresent)
+    // as an argument and returns a new stream that only contains the elements that satisfy the predicate.
+    
+    
     public boolean isFull() {
         return board.stream().allMatch(Optional::isPresent);
     }
@@ -51,6 +75,10 @@ public class Board {
         validateMove(index);
         return new Board(board.with(index, Optional.of(player)));
     }
+     // EXPLANATION: 
+    
+    // it involves passing a value as a parameter to the validateMove function, 
+    // and passing a function as a value to the constructor of the Board object.
 
     @Override
     public int hashCode() {
