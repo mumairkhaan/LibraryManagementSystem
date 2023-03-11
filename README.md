@@ -152,7 +152,7 @@ I have utilized functional programming in my code which can be seen in different
   
 2. [Side effect free fucntions](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/Board.java#L22-L30) are being utilized.
   
-3. The use of [higher order functions](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/Board.java#L32-L38) is done in this project like map, filter, reduce form stream API etc.
+3. The use of [higher order functions](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/Board.java#L37-L43) is done in this project like map, filter, reduce form stream API etc.
   
 4. [Functions as parameters and values](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/Board.java#L45-L48) are being used in the code.
   
