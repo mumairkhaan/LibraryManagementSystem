@@ -108,8 +108,21 @@ A complicated system can be represented by a simple use-case diagram, or its var
 The link to my uml diagrams is: [UML](https://github.com/mumairkhaan/LibraryManagementSystem/tree/main/LibraryManagamentSystem-main/images/UML)
 # 3. DDD
 The domain, or area of expertise, of individuals who will utilize it is at the center of the domain-driven design (DDD) software development concept. The method makes it possible to design software that is concentrated on the intricate needs of those who need it and doesn't waste time on anything unnecessary. It is a set of guidelines and patterns that aid designers in creating beautiful object systems. When used correctly, it can result in software abstractions known as domain models. These models bridge the gap between business fundamentals and code by encapsulating intricate business logic. During this project, It helped me in developing an approach which lead to abstraction of the project. It helped in understanding the business logic and bridge the gap between reality and code. It is used to ease the development of my project. I have created and added the DDD in my readme file in git. [Please check START of this file](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/README.md) 
-# 4. METRICES
-Software metrics are measurements of quantifiable or countable software attributes. Measuring software performance, organizing tasks, gauging productivity, and many more purposes make software metrics crucial. Metrices are also included in the readme files. The two metrices I have chosen are complexity and security of the system. I have utilized the SonarQube metrices. Cyclomatic complexity, a quantitative metric used to determine the number of paths through the code, is referred to as complexity. The complexity counter is increased by one each time a function's control flow divides into two separate directions. Each function has a complexity that is at least 1. Because keywords and functionalities differ between languages, this computation differs a little bit. Metrics for software product security Give a numerical evaluation of the level of software system trustworthiness. The link to the file is [Metrices](https://github.com/mumairkhaan/LibraryManagementSystem/tree/main/LibraryManagamentSystem-main/Metrices/metrices.pdf)
+
+  # 4. METRICES
+Software metrics are measurements of quantifiable or countable software attributes. Measuring software performance, organizing tasks, gauging productivity, and many more purposes make software metrics crucial. Metrices are also included in the readme files. The two metrices I have chosen are complexity and security of the system. I have utilized the SonarQube metrices. Cyclomatic complexity, a quantitative metric used to determine the number of paths through the code, is referred to as complexity. The complexity counter is increased by one each time a function's control flow divides into two separate directions. Each function has a complexity that is at least 1. Because keywords and functionalities differ between languages, this computation differs a little bit. Metrics for software product security Give a numerical evaluation of the level of software system trustworthiness. The link to the Metrices is:
+  <br>
+  <br>
+  [Metrices Screenshot 1](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/Metrices/s1.PNG) 
+  <br>
+  <br>
+ [Metrices Screenshot 2](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/Metrices/s2.PNG)
+  <br>
+  <br>
+  [Metrices Screenshot 3](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/Metrices/s3.PNG)
+  <br>
+  <br>
+   [Metrices Screenshot 4](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/Metrices/s4.PNG)
 
   
 # 5.	CLEAN CODE DEVELOPMENT
