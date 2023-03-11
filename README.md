@@ -74,6 +74,7 @@ A description of a group of objects all with similar roles in the system, which 
 ## Usecase diagram
 In the Unified Modeling Language (UML), a use case diagram can summarize the details of your system's users (also known as actors) and their interactions with the system. Here is the use case diagram of the library management system.
 <br />
+<br />
 ![Usecase Diagram](LibraryManagamentSystem-main/images/UML/usecase.png)
 
 ## Activity Diagram
