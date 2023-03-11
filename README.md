@@ -148,15 +148,15 @@ Functional programming, in general, refers to the optimum use of functions for p
 <br>
 I have utilized functional programming in my code which can be seen in different methods, and different points in my code which is uploaded on git. This code is Not from my original (Library Management System) project instead it is out of the project which utilizes functional programming.
 
-1. The use of [final data structure](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/Board.java#L14-L16) is done to introduce immutability in code.
+1. The use of [final data structure](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/Board.java#L13-L21) is done to introduce immutability in code.
   
-2. [Side effect free fucntions](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/Board.java#L22-L30) are being utilized.
+2. [Side effect free fucntions](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/Board.java#L29-L43) are being utilized.
   
 3. The use of [higher order functions](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/Board.java#L37-L43) is done in this project like map, filter, reduce form stream API etc.
   
-4. [Functions as parameters and values](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/Board.java#L45-L48) are being used in the code.
+4. [Functions as parameters and values](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/Board.java#L48-L67) are being used in the code.
   
-5. The [use of pure functions](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/BoardMathHelpers.java#L15-L62) is depicted in the code. 
+5. The [use of pure functions](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/BoardMathHelpers.java#L20-L30) is depicted in the code. 
 
   <br>
   <br>
