@@ -113,16 +113,16 @@ The domain, or area of expertise, of individuals who will utilize it is at the c
 Software metrics are measurements of quantifiable or countable software attributes. Measuring software performance, organizing tasks, gauging productivity, and many more purposes make software metrics crucial. Metrices are also included in the readme files. The two metrices I have chosen are complexity and security of the system. I have utilized the SonarQube metrices. Cyclomatic complexity, a quantitative metric used to determine the number of paths through the code, is referred to as complexity. The complexity counter is increased by one each time a function's control flow divides into two separate directions. Each function has a complexity that is at least 1. Because keywords and functionalities differ between languages, this computation differs a little bit. Metrics for software product security Give a numerical evaluation of the level of software system trustworthiness. The link to the Metrices is:
   <br>
   <br>
-  [Metrices Screenshot 1](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/Metrices/s1.PNG) 
+  [Metrices Screenshot 1](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/Metrices/s1.PNG) 
   <br>
   <br>
- [Metrices Screenshot 2](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/Metrices/s2.PNG)
+ [Metrices Screenshot 2](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/Metrices/s2.PNG)
   <br>
   <br>
-  [Metrices Screenshot 3](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/Metrices/s3.PNG)
+  [Metrices Screenshot 3](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/Metrices/s3.PNG)
   <br>
   <br>
-   [Metrices Screenshot 4](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/Metrices/s4.PNG)
+   [Metrices Screenshot 4](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/Metrices/s4.PNG)
 
   
 # 5.	CLEAN CODE DEVELOPMENT
