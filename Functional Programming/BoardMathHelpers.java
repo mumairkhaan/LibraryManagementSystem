@@ -16,13 +16,20 @@ public class BoardMathHelpers {
         return Math.sqrt(number) % 1 == 0;
     }
 
+    
     public static List<Optional<Player>> defaultBoard() {
         return Stream
                 .generate(Optional::<Player>empty)
                 .limit(DEFAULT_BOARD_SIZE)
                 .collect(Collectors.toList());
     }
+    // EXPLANATION:
+    
+    // In the defaultBoard() method, Optional::empty is used as a supplier to generate an infinite stream
+    // of empty Optional objects using the Stream.generate() method.
+    // This is an example of using a method reference to create an anonymous function, also known as a closure.
 
+    
     public static List<List<Integer>> calculateWinningRowIndices(int boardSize, int rowSize) {
         final Collection<List<Integer>> columnIndices = IntStream
                 .range(0, boardSize)
