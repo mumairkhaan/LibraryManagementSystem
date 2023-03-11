@@ -11,10 +11,11 @@ import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 public class Board {
-    private final PVector<Optional<Player>> board;
-    private final int rowSize;
+    private final PVector<Optional<Player>> board;    // In this code , the board, rowSize, and winningRowIndices variables 
+    private final int rowSize;                       // are all declared as final, which means that their values cannot be changed once they are set.
     private final List<List<Integer>> winningRowIndices;
 
+    
     public Board() {
         this(BoardMathHelpers.defaultBoard());
     }
