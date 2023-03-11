@@ -28,6 +28,10 @@ public class Board {
         this.board = TreePVector.from(board);
         this.winningRowIndices = BoardMathHelpers.calculateWinningRowIndices(board.size(), rowSize);
     }
+    // This function is side effect free function because
+    // The function takes a single argument, board, and uses it to initialize the state of the object. 
+    // The function doesn't modify any external state, such as global variables or objects, 
+    // and it doesn't depend on any external state that can change over time. It also doesn't have any observable side effects.
 
     public Optional<Player> findWinner() {
         return winningRowIndices
