@@ -146,10 +146,10 @@ I have used maven for my project build. It is an open source automation tool tha
 [Link](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/pom.xml)
 
 # 7. UNIT TESTS
-Software testing with a focus on individual software system units or components is known as unit testing. Unit testing checks that each piece of software operates as intended and complies with specifications. Each time the code is modified, unit tests are automatically run to make sure that the new code won't break any functionality already in place. A function or method, for example, can be tested independently from the rest of the system using unit tests, which are created to check the smallest possible unit of code. As a result, early on in the development process, developers may immediately discover and address any errors, enhancing the software's overall quality and cutting down on the time needed for testing. I have created and upload test files on git. 
+Software testing with a focus on individual software system units or components is known as unit testing. Unit testing checks that each piece of software operates as intended and complies with specifications. Each time the code is modified, unit tests are automatically run to make sure that the new code won't break any functionality already in place. A function or method, for example, can be tested independently from the rest of the system using unit tests, which are created to check the smallest possible unit of code. As a result, early on in the development process, developers may immediately discover and address any errors, enhancing the software's overall quality and cutting down on the time needed for testing. 
 <br>
   <br>
-I have used Junit5 library in IntelliJ to create test cases for different methods in different classes of my code.
+I have created and upload test files on git. I have used Junit5 library in IntelliJ to create test cases for different methods in different classes of my code.
 URL for test files: [Unit Tests](https://github.com/mumairkhaan/LibraryManagementSystem/tree/main/LibraryManagamentSystem-main/liberaryManagment/src/test/java)
   
   
