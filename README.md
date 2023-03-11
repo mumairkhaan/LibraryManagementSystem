@@ -154,7 +154,7 @@ I have utilized functional programming in my code which can be seen in different
   
 3. The use of [higher order functions](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/Board.java#L48-L67) is done in this project like map, filter, reduce form stream API etc.
   
-4. [Functions as parameters and values](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/Board.java#L48-L67) are being used in the code.
+4. [Functions as parameters and values](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/Board.java#L74-L81) are being used in the code.
   
 5. The [use of pure functions](https://github.com/mumairkhaan/LibraryManagementSystem/blob/main/Functional%20Programming/BoardMathHelpers.java#L20-L30) is depicted in the code. 
 
