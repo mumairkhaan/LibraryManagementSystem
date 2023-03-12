@@ -29,7 +29,7 @@ public class BoardDsl {
 // EXPLANATION:
 
 
-// Specifically, the BoardDsl class provides methods that allow you to create a Board object with a specific configuration of Player objects. 
+// Here the BoardDsl class provides methods that allow you to create a Board object with a specific configuration of Player objects. 
 // The methods x(), o() and empty() create Optional<Player> objects representing the Player values X, O, and empty, respectively.
 // The board() method takes an array of Optional<Player> objects and returns a Board object that is constructed from 
 // an ImmutableList of those players.
